@@ -1,0 +1,20 @@
+{
+  "name": "genpark-disruptor-lock-free-ring-buffer-skill",
+  "version": "1.0.0",
+  "description": "LMAX Disruptor-inspired lock-free high-throughput ring buffer with sequence barriers and multi-consumer gating",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "disruptor",
+    "ring-buffer",
+    "lock-free",
+    "high-throughput",
+    "sequence-barrier",
+    "concurrency",
+    "python-standard-library",
+    "agent-skills",
+    "low-latency",
+    "circular-buffer"
+  ]
+}
