@@ -1,0 +1,6 @@
+name: genpark-disruptor-lock-free-ring-buffer-skill
+version: 1.0.0
+description: LMAX Disruptor-inspired lock-free high-throughput ring buffer with sequence barriers and multi-consumer gating
+command: python
+args:
+  - mcp_server.py
